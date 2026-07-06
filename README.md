@@ -1,4 +1,3 @@
-# Merhaba, Ben Muhammed Eren Bağ! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Muhammed+Eren+Bağ&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer+Science+Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" />
