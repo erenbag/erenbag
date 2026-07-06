@@ -5,38 +5,33 @@
 </p>
 
 <p align="center">
+  <img src="https://git.io/typing-svg?color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Computer+Science+Student+at+TGU;AI+Specialist+in+the+making;Deep+Learning+&+LLM+Enthusiast;Building+future+solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="mailto:erenbag23159@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/erenbag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ## :technologist: &nbsp; Hakkımda
-Türk-Alman Üniversitesi'nde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme ve yapay zeka alanlarına büyük bir tutku duyuyorum. Oyun mekanikleri, mobil trendler ve yenilikçi ürünler oluşturma konularında araştırmalar yapıyorum. 
+Türk-Alman Üniversitesi'nde 2. sınıf Bilgisayar Mühendisliği öğrencisiyim. İleri düzey algoritmalar, **Yapay Zeka**, **LLM** (Büyük Dil Modelleri) ve **Yapay Sinir Ağları** üzerine yoğunlaşıyorum. Sürekli gelişen teknoloji dünyasında, teorik bilgimi pratik projelere dönüştürmek en büyük motivasyonum.
 
-Uluslararası çalışma deneyimine sahip, ekip çalışmasına yatkın ve sürekli öğrenmeye odaklı biriyim. Şu an projelerimi geliştirebileceğim ve pratik deneyim kazanabileceğim staj veya proje bazlı fırsatlar arıyorum.
+## :wrench: &nbsp; Çalışma Alanları & İlgi
+<div align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Networks-5C3EE8?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
 
-## :books: &nbsp; Eğitim
-*   **Türk-Alman Üniversitesi** | Bilgisayar Mühendisliği | 2022 - Günümüz
-*   **Aydın Fen Lisesi** | 2018 - 2022
-
-## :wrench: &nbsp; Teknik Beceriler
+## :desktop_computer: &nbsp; Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-
-## :rocket: &nbsp; Deneyim & Sosyal Sorumluluk
-*   **Araç Yükleme Operatörü** | Otomotiv Sektörü, Almanya (07/2025 - 10/2025)
-    *   Almanca konuşulan bir ortamda profesyonel deneyim ve dil yetkinliği kazanımı.
-*   **BİTEG (Bilim ve Teknoloji Kulübü) Başkanı** | 2020 - 2022
-    *   Bilim ve teknoloji odaklı seminerlerin organizasyonu ve ekip liderliği.
-*   **Okul Voleybol Takımı Kaptanı** | 2019 - 2021
-
-## :dart: &nbsp; İlgilendiğim Alanlar
-*   Yapay Zeka & Makine Öğrenmesi
-*   Oyun Geliştirme (Unity)
-*   Yazılım Geliştirme Süreçleri
 
 ## :bar_chart: &nbsp; GitHub İstatistikleri
 <div align="center">
@@ -46,5 +41,5 @@ Uluslararası çalışma deneyimine sahip, ekip çalışmasına yatkın ve süre
 
 ---
 <p align="center">
-  <i>"Sürekli öğreniyor, sürekli gelişiyorum."</i>
+  <i>"Kodun gücüyle geleceği inşa etmek."</i>
 </p>
